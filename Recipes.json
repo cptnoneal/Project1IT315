@@ -1,12 +1,12 @@
 {
   "Recipes":
   [
-    {"URL":"https://www.delish.com/cooking/recipe-ideas/recipes/a53695/one-pot-chicken-alfredo-recipe/","Name":"Chicken Alfredo","Cooktime":"30 Minutes","Image":"https://github.com/cptnoneal/Project1IT315/blob/main/alfredo.jpg?raw=true","Description":"Chicken and pasta cooked in alfredo sauce.},
-    {"URL":"https://lenaskitchenblog.com/ribeye-steak-and-shrimp/","Name":"Steak and Shirimp","Cooktime":"20 Minutes","Image":"https://github.com/cptnoneal/Project1IT315/blob/main/steakandshrimp.jpg?raw=true","Description":"Steak and shrimp that has been seasoned and grilled."},
-    {"URL":"https://www.foodnetwork.com/recipes/ree-drummond/orange-chicken-2495688","Name":"Orange Chicken","Cooktime":"50 Minutes","Image":"https://github.com/cptnoneal/Project1IT315/blob/main/orangechicken.jpg?raw=true","Description":"Chicken cooked in a pan and covered in an orange sauce"},
-    {"URL":"Difficult","Name":"2510 ft","Cooktime":1,"Image":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","Description":"8.0 mi"},
-    {"URL":"Difficult","Name":"2510 ft","Cooktime":1,"Image":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","Description":"8.0 mi"},
-    {"URL":"Difficult","Name":"2510 ft","Cooktime":1,"Image":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","Description":"8.0 mi"},
+    {"URL":"https://www.delish.com/cooking/recipe-ideas/recipes/a53695/one-pot-chicken-alfredo-recipe/","Name":"Chicken Alfredo","Cooktime":"30 Minutes","Dinnerimg":"https://github.com/cptnoneal/Project1IT315/blob/main/alfredo.jpg?raw=true","Description":"Chicken and pasta cooked in alfredo sauce.},
+    {"URL":"https://lenaskitchenblog.com/ribeye-steak-and-shrimp/","Name":"Steak and Shirimp","Cooktime":"20 Minutes","Dinnerimg":"https://github.com/cptnoneal/Project1IT315/blob/main/steakandshrimp.jpg?raw=true","Description":"Steak and shrimp that has been seasoned and grilled."},
+    {"URL":"https://www.foodnetwork.com/recipes/ree-drummond/orange-chicken-2495688","Name":"Orange Chicken","Cooktime":"50 Minutes","Dinnerimg":"https://github.com/cptnoneal/Project1IT315/blob/main/orangechicken.jpg?raw=true","Description":"Chicken cooked in a pan and covered in an orange sauce"},
+    {"URL":"https://www.gimmesomeoven.com/fried-rice-recipe/","Name":"Fried Rice","Cooktime":"15 Minutes","Dinnerimg":"https://github.com/cptnoneal/Project1IT315/blob/main/friedrice.jpg?raw=true","Description":"Fried rice with carrots, peas and egg."},
+    {"URL":"https://www.foodnetwork.com/recipes/patrick-and-gina-neely/pulled-pork-sandwiches-recipe-1973500","Name":"Pulled Pork","Cooktime":"6 Hours and 45 Minutes","Dinnerimg":"","Description":"Slow cooker pulled pork topped with BBQ sauce on a bun."},
+    {"URL":"https://www.foodnetwork.com/recipes/sunny-anderson/easy-grilled-pork-chops-recipe-2106547","Name":"Pork Chops","Cooktime":"1 Hour 15 Minutes","Dinnerimg":"","Description":"Grilled and seasoned pork chops"},
 
     
     
